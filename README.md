@@ -1,4 +1,4 @@
-# Joncom
+# Jobcom
 
 **Joncom** adalah aplikasi berbasis **Flutter** yang dirancang untuk membantu pengguna dalam mencari pekerjaan, mengelola lamaran, dan menampilkan informasi profil mereka dengan cara yang interaktif dan menarik.
 
